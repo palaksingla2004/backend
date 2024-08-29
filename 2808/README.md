@@ -1,2 +1,4 @@
 # backend
-nodes mongodb mein kya kia
+notes mongodb mein kya kia
+count->how to count documents in collection
+db.collection.estimatedDocumentCount();
